@@ -1,0 +1,13 @@
+## macOS and Xcode local files
+.DS_Store
+**/xcuserdata/
+*.xcuserstate
+DerivedData/
+build/
+
+## Swift build output
+.build/
+.swiftpm/
+
+## Local project notes
+discord-presence-manager-agent-spec.md
